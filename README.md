@@ -137,7 +137,7 @@ Building intelligent systems from silicon to software.
 <td width="35%" align="center" valign="middle">
 
 <img
-  src="assets/github-animation.gif"
+  src="assets/stats-gif.gif"
   width="320"
   alt="GitHub Animation"/>
 
@@ -153,4 +153,92 @@ Building intelligent systems from silicon to software.
     width="95%"
     src="https://streak-stats.demolab.com?user=M-Nenot&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"/>
+</p>
+
+<h2 align="center">💡 Engineering Philosophy</h2>
+
+<p align="center">
+Building technology with a systems-first mindset—where hardware, embedded software,
+artificial intelligence, and cloud platforms work together as a unified solution.
+</p>
+
+<p align="center">
+I believe great engineering is built on strong fundamentals, scalable architecture,
+and solving real-world problems through thoughtful design and continuous innovation.
+</p>
+
+<h2 align="center">⚡ Core Competencies</h2>
+
+<table align="center">
+<tr>
+<td align="center">
+
+🧠 AI Systems
+
+</td>
+
+<td align="center">
+
+⚙ Embedded Engineering
+
+</td>
+
+<td align="center">
+
+☁ Cloud Architecture
+
+</td>
+
+<td align="center">
+
+🏭 Industrial Automation
+
+</td>
+
+</tr>
+</table>
+
+<h2 align="center">🏆 Certifications & Achievements</h2>
+
+<p align="center">
+
+🏅 NVIDIA Inception Program Member<br>
+🚀 DPIIT Recognized Startup Contributor<br>
+💡 MeitY EIR Supported Startup<br>
+🏢 Incubated at AIC RAISE, Coimbatore
+
+</p>
+
+<h2 align="center">🏅 Coding Profiles</h2>
+
+<p align="center">
+  <a href="https://leetcode.com/u/M-Nenot/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+
+  <a href="https://www.hackerrank.com/profile/MariyaNenot" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+</p>
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+
+<a href="mailto:mariyanenot1802@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mariya-nenot-1802sha/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/M-Nenot">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/918525814304">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
 </p>
